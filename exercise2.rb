@@ -3,7 +3,7 @@
 #Should be 11
 puts "$" + (55 * 0.2).to_s
 #Can't add string and integer
-#Convert string to i using ".to_s"
+#Convert i to string using ".to_s"
 puts "Youre # " + 1.to_s
 #output result by using #{x * y} inline
 puts "#{45628 * 7839} is the product of 45628 and 7839"
